@@ -1,0 +1,35 @@
+/* h1 { 
+    text-align:center;
+}  */
+
+#time {
+    text-align: center;
+    font-size: 120px; 
+    color: white;
+}
+
+#weatherCity{ 
+    font-size: 20px;
+    text-align: right;
+}
+
+#weatherTemp{ 
+    font-size: 35px; 
+    text-align: right;
+}
+
+#weatherMain { 
+    font-size: 17px; 
+    text-align: right;
+
+} 
+
+#forismatic { 
+    font-size: 17px; 
+    text-align: center;
+    transform: translateY(600px);
+}
+
+body { 
+    background-size: 100%;
+}
