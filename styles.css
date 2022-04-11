@@ -8,6 +8,12 @@
     color: white;
 }
 
+#greeting { 
+    text-align: center;
+    font-size: 70px; 
+    color: white;
+}
+
 #weatherCity{ 
     font-size: 20px;
     text-align: right;
@@ -27,7 +33,7 @@
 #forismatic { 
     font-size: 17px; 
     text-align: center;
-    transform: translateY(600px);
+    transform: translateY(200px);
 }
 
 body { 
